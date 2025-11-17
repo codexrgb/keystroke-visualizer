@@ -16,3 +16,4 @@ It does **not** hook the OS or capture keystrokes from other apps.
 ```bash
 python app.py
 nano ~/Desktop/keystroke-visualizer/README.md
+# keystroke-visualizer
